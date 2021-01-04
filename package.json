@@ -1,0 +1,16 @@
+{
+  "name": "mongodb-modeling",
+  "version": "1.0.0",
+  "description": "mongodb-modeling",
+  "main": "t add README.md",
+  "scripts": {
+    "test": "ranch -M main"
+  },
+  "repository": {
+    "type": "git",
+    "url": ".com/quangnt-dev/MONGODB-MODELING.git"
+  },
+  "keywords": [],
+  "author": "quangnt",
+  "license": "ISC"
+}
