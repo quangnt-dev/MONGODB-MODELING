@@ -2,9 +2,9 @@
   "name": "mongodb-modeling",
   "version": "1.0.0",
   "description": "mongodb-modeling",
-  "main": "t add README.md",
+  "main": "server.js",
   "scripts": {
-    "test": "ranch -M main"
+    "test": ""
   },
   "repository": {
     "type": "git",
